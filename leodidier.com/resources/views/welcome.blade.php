@@ -12,12 +12,17 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                /* background-color: #fff; */
+                background-image : url('https://images.pexels.com/photos/1166644/pexels-photo-1166644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
-                font-weight: 200;
-                height: 100vh;
-                margin: 0;
+                margin:0;
+  padding:0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
             }
 
             .full-height {
@@ -81,16 +86,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    leodidier.com
+                    Léo DIDIER
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="/presentation">Présentation</a>
+                    <a href="/portfolio">Portfolio</a>
+                    <a href="https://github.com/laravel/laravel">Shop</a>
+                    <a href="/contact">Contact</a>
                 </div>
             </div>
         </div>

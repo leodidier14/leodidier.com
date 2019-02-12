@@ -14,3 +14,20 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/presentation', function () {
+    return view('presentation');
+});
+
+Route::get('/portfolio', function () {
+    return view('portfolio');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/mentions', function () {
+    return view('mentions');
+});
+
