@@ -52,6 +52,11 @@
             .title {
                 font-size: 84px;
             }
+            @media only screen and (max-width: 620px) {
+                .title {
+                    font-size: 65px;
+                    }
+                    }
 
             .links > a {
                 color: #636b6f;
