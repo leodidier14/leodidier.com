@@ -9,7 +9,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <link rel="stylesheet" href="{{ asset('/css/app.css') }}">
         <link rel="stylesheet" href="{{ asset('/css/layout.css') }}">
-        <link rel="icon" type="image/png" href="https://pbs.twimg.com/profile_images/483540263659241472/sd02mPsS_400x400.png" />
+        <link rel="icon" type="image/png" href="https://i.pinimg.com/originals/c1/67/f2/c167f26737f0260397d15e5413600bef.jpg" />
         <title>Léo DIDIER</title>  
     </head>
     </head>
@@ -41,7 +41,7 @@
     <div class="col-md-7 col-lg-8">
 
       <!--Copyright-->
-      <strong>© BDE Strasbourg 2019</strong>
+      <strong>©Léo DIDIER</strong>
        
     </div>
     <!-- Grid column -->
@@ -53,23 +53,11 @@
       <div class="text-center text-md-right">
         <ul class="list-unstyled list-inline">
           <li class="list-inline-item">
-            <a class="btn-floating btn-sm rgba-white-slight mx-1" href="https://fr-fr.facebook.com/cesistrasbourg/">
-              <i class="fab fa-facebook-f"></i>
-            </a>
-            <a class="btn-floating btn-sm rgba-white-slight mx-1" href="https://www.youtube.com/user/groupecesi1/">
-              <i class="fab fa-youtube"></i>
-            </a>
-            <a class="btn-floating btn-sm rgba-white-slight mx-1" href="https://www.linkedin.com/company/groupe-cesi/">
+            <a class="btn-floating btn-sm rgba-white-slight mx-1" href="https://www.linkedin.com/in/l%C3%A9o-didier-8a69b915b/">
               <i class="fab fa-linkedin-in"></i>
             </a>
-            <a class="btn-floating btn-sm rgba-white-slight mx-1" href="https://twitter.com/GroupeCESI">
-              <i class="fab fa-twitter"></i>
-            </a>
-            <a class="btn-floating btn-sm rgba-white-slight mx-1" href="https://www.instagram.com/campus_cesi/">
-              <i class="fab fa-instagram"></i>
-            </a>
-            <a class="btn-floating btn-sm rgba-white-slight mx-1" href="https://fr.viadeo.com/fr/company/cesi">
-              <i class="fab fa-viadeo"></i>
+            <a class="btn-floating btn-sm rgba-white-slight mx-1" href="https://github.com/leodidier14">
+              <i class="fab fa-github"></i>
             </a>
           </li>
           

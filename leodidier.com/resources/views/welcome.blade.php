@@ -25,7 +25,7 @@
                 <div class="links">
                     <a href="/presentation">Présentation</a>
                     <a href="/portfolio">Portfolio</a>
-                    <a href="https://github.com/laravel/laravel">Shop</a>
+                    <a href="/">Shop</a>
                     <a href="/contact">Contact</a>
                 </div>
             </div>
